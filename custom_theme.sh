@@ -2,11 +2,10 @@
 # Push HTML files to gh-pages automatically.
 
 # Fill this out with the correct org/repo
-ORG=chenjiajia
-REPO=awesome
+ORG=Programer-ba
+REPO=tools
 # This probably should match an email for one of your users.
-EMAIL=chenjiajia1@gmail.com
-
+EMAIL=armin.ahmetovic@programer.ba
 set -e
 
 # Clone Theme for Editing
